@@ -6,7 +6,7 @@ import { StyleSheet, Text, View } from "react-native";
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>Camera</Text>
+      <Text>Caméra</Text>
       <StatusBar style="auto" />
     </View>
   );
